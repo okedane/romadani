@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Romadani</h1>
+<h1 align="center">Hi 👋, I'm Romadani (DANI)</h1>
 <h3 align="center">I'm a passionate developer with a keen interest in Flutter and mobile app development. I love exploring new technologies and continuously improving my skills.</h3>
 <img align="right" alt="Coding" width = "400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--s2WZChX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif">
 
